@@ -1,0 +1,41 @@
+﻿
+<!DOCTYPE html>
+<html lang="en"  dir="ltr" data-theme="theme-default">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0" />
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/resources/css/style.css" asp-append-version="true"/>
+    <script src="~/lib/jquery/jquery.js" asp-append-version="true"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto" rel="stylesheet" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap" rel="stylesheet">
+    <link rel="icon" type="image/gif" href="./resources/images/frontendImages/admic.png">
+    <title>EDI</title>
+</head>
+
+<body>
+    @{
+        if (TempData["login-failed"] != null)
+        {
+            @await Component.InvokeAsync("FixedElements", "FailedLogin")
+        }
+        @await Component.InvokeAsync("FixedElements", "LoadingLogin")
+    }
+
+    <script>
+        function showLoadingIcon() {
+            const item = $("#loading-icon-login");
+            item.show();
+            $(window).on('load', function () {
+                item.hide();
+            });
+        }
+    </script>
+
+    @RenderBody();
+
+</body>
+</html>

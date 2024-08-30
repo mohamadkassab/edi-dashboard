@@ -1,0 +1,16 @@
+﻿@model EDI.Models.ItemDataModels.AttributeSetupModel;
+
+
+<div class="attributes-col">
+    <div class="attribute-info">
+        <div class="attribute-name">
+            <label id="@Model.Name">@Model.Name</label>
+        </div>
+        <div class="edition-info">
+            <label id="edited-by-@Model.Id">Edited by:</label>
+            <label id="edition-date-@Model.Id">Date:</label>
+        </div>
+    </div>
+    <textarea id="ar-@Model.Id" ></textarea>
+</div>
+

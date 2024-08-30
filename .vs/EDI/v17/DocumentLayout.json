@@ -1,0 +1,499 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\MK\\Projects\\EDI - project\\EDI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC316733-2F93-48FF-8741-02BD074ABA22}|EDI\\EDI.csproj|c:\\users\\user\\desktop\\mk\\projects\\edi - project\\edi\\edi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC316733-2F93-48FF-8741-02BD074ABA22}|EDI\\EDI.csproj|solutionrelative:edi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC316733-2F93-48FF-8741-02BD074ABA22}|EDI\\EDI.csproj|c:\\users\\user\\desktop\\mk\\projects\\edi - project\\edi\\edi\\controllers\\itemdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC316733-2F93-48FF-8741-02BD074ABA22}|EDI\\EDI.csproj|solutionrelative:edi\\controllers\\itemdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC316733-2F93-48FF-8741-02BD074ABA22}|EDI\\EDI.csproj|c:\\users\\user\\desktop\\mk\\projects\\edi - project\\edi\\edi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC316733-2F93-48FF-8741-02BD074ABA22}|EDI\\EDI.csproj|solutionrelative:edi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC316733-2F93-48FF-8741-02BD074ABA22}|EDI\\EDI.csproj|c:\\users\\user\\desktop\\mk\\projects\\edi - project\\edi\\edi\\models\\usermodels\\userrolepermissionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC316733-2F93-48FF-8741-02BD074ABA22}|EDI\\EDI.csproj|solutionrelative:edi\\models\\usermodels\\userrolepermissionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC316733-2F93-48FF-8741-02BD074ABA22}|EDI\\EDI.csproj|c:\\users\\user\\desktop\\mk\\projects\\edi - project\\edi\\edi\\models\\usermodels\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC316733-2F93-48FF-8741-02BD074ABA22}|EDI\\EDI.csproj|solutionrelative:edi\\models\\usermodels\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC316733-2F93-48FF-8741-02BD074ABA22}|EDI\\EDI.csproj|c:\\users\\user\\desktop\\mk\\projects\\edi - project\\edi\\edi\\models\\usermodels\\userenummodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC316733-2F93-48FF-8741-02BD074ABA22}|EDI\\EDI.csproj|solutionrelative:edi\\models\\usermodels\\userenummodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC316733-2F93-48FF-8741-02BD074ABA22}|EDI\\EDI.csproj|c:\\users\\user\\desktop\\mk\\projects\\edi - project\\edi\\edi\\models\\itemdatamodels\\searchsuggestionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC316733-2F93-48FF-8741-02BD074ABA22}|EDI\\EDI.csproj|solutionrelative:edi\\models\\itemdatamodels\\searchsuggestionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC316733-2F93-48FF-8741-02BD074ABA22}|EDI\\EDI.csproj|c:\\users\\user\\desktop\\mk\\projects\\edi - project\\edi\\edi\\models\\itemdatamodels\\itemsupmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC316733-2F93-48FF-8741-02BD074ABA22}|EDI\\EDI.csproj|solutionrelative:edi\\models\\itemdatamodels\\itemsupmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC316733-2F93-48FF-8741-02BD074ABA22}|EDI\\EDI.csproj|c:\\users\\user\\desktop\\mk\\projects\\edi - project\\edi\\edi\\models\\itemdatamodels\\itemsearchmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC316733-2F93-48FF-8741-02BD074ABA22}|EDI\\EDI.csproj|solutionrelative:edi\\models\\itemdatamodels\\itemsearchmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC316733-2F93-48FF-8741-02BD074ABA22}|EDI\\EDI.csproj|c:\\users\\user\\desktop\\mk\\projects\\edi - project\\edi\\edi\\models\\itemdatamodels\\itemsavemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC316733-2F93-48FF-8741-02BD074ABA22}|EDI\\EDI.csproj|solutionrelative:edi\\models\\itemdatamodels\\itemsavemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC316733-2F93-48FF-8741-02BD074ABA22}|EDI\\EDI.csproj|c:\\users\\user\\desktop\\mk\\projects\\edi - project\\edi\\edi\\models\\itemdatamodels\\itemlistmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC316733-2F93-48FF-8741-02BD074ABA22}|EDI\\EDI.csproj|solutionrelative:edi\\models\\itemdatamodels\\itemlistmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC316733-2F93-48FF-8741-02BD074ABA22}|EDI\\EDI.csproj|c:\\users\\user\\desktop\\mk\\projects\\edi - project\\edi\\edi\\models\\itemdatamodels\\iteminfomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC316733-2F93-48FF-8741-02BD074ABA22}|EDI\\EDI.csproj|solutionrelative:edi\\models\\itemdatamodels\\iteminfomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC316733-2F93-48FF-8741-02BD074ABA22}|EDI\\EDI.csproj|c:\\users\\user\\desktop\\mk\\projects\\edi - project\\edi\\edi\\models\\itemdatamodels\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC316733-2F93-48FF-8741-02BD074ABA22}|EDI\\EDI.csproj|solutionrelative:edi\\models\\itemdatamodels\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC316733-2F93-48FF-8741-02BD074ABA22}|EDI\\EDI.csproj|c:\\users\\user\\desktop\\mk\\projects\\edi - project\\edi\\edi\\models\\itemdatamodels\\attributevaluemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC316733-2F93-48FF-8741-02BD074ABA22}|EDI\\EDI.csproj|solutionrelative:edi\\models\\itemdatamodels\\attributevaluemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC316733-2F93-48FF-8741-02BD074ABA22}|EDI\\EDI.csproj|c:\\users\\user\\desktop\\mk\\projects\\edi - project\\edi\\edi\\models\\itemdatamodels\\attributesetupmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC316733-2F93-48FF-8741-02BD074ABA22}|EDI\\EDI.csproj|solutionrelative:edi\\models\\itemdatamodels\\attributesetupmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC316733-2F93-48FF-8741-02BD074ABA22}|EDI\\EDI.csproj|c:\\users\\user\\desktop\\mk\\projects\\edi - project\\edi\\edi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC316733-2F93-48FF-8741-02BD074ABA22}|EDI\\EDI.csproj|solutionrelative:edi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC316733-2F93-48FF-8741-02BD074ABA22}|EDI\\EDI.csproj|c:\\users\\user\\desktop\\mk\\projects\\edi - project\\edi\\edi\\services\\databaseservices\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC316733-2F93-48FF-8741-02BD074ABA22}|EDI\\EDI.csproj|solutionrelative:edi\\services\\databaseservices\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC316733-2F93-48FF-8741-02BD074ABA22}|EDI\\EDI.csproj|c:\\users\\user\\desktop\\mk\\projects\\edi - project\\edi\\edi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FC316733-2F93-48FF-8741-02BD074ABA22}|EDI\\EDI.csproj|solutionrelative:edi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC316733-2F93-48FF-8741-02BD074ABA22}|EDI\\EDI.csproj|c:\\users\\user\\desktop\\mk\\projects\\edi - project\\edi\\edi\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FC316733-2F93-48FF-8741-02BD074ABA22}|EDI\\EDI.csproj|solutionrelative:edi\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC316733-2F93-48FF-8741-02BD074ABA22}|EDI\\EDI.csproj|c:\\users\\user\\desktop\\mk\\projects\\edi - project\\edi\\edi\\views\\home\\main.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC316733-2F93-48FF-8741-02BD074ABA22}|EDI\\EDI.csproj|solutionrelative:edi\\views\\home\\main.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC316733-2F93-48FF-8741-02BD074ABA22}|EDI\\EDI.csproj|c:\\users\\user\\desktop\\mk\\projects\\edi - project\\edi\\edi\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC316733-2F93-48FF-8741-02BD074ABA22}|EDI\\EDI.csproj|solutionrelative:edi\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC316733-2F93-48FF-8741-02BD074ABA22}|EDI\\EDI.csproj|c:\\users\\user\\desktop\\mk\\projects\\edi - project\\edi\\edi\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC316733-2F93-48FF-8741-02BD074ABA22}|EDI\\EDI.csproj|solutionrelative:edi\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC316733-2F93-48FF-8741-02BD074ABA22}|EDI\\EDI.csproj|c:\\users\\user\\desktop\\mk\\projects\\edi - project\\edi\\edi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FC316733-2F93-48FF-8741-02BD074ABA22}|EDI\\EDI.csproj|solutionrelative:edi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC316733-2F93-48FF-8741-02BD074ABA22}|EDI\\EDI.csproj|c:\\users\\user\\desktop\\mk\\projects\\edi - project\\edi\\edi\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FC316733-2F93-48FF-8741-02BD074ABA22}|EDI\\EDI.csproj|solutionrelative:edi\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC316733-2F93-48FF-8741-02BD074ABA22}|EDI\\EDI.csproj|c:\\users\\user\\desktop\\mk\\projects\\edi - project\\edi\\edi\\wwwroot\\resources\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{FC316733-2F93-48FF-8741-02BD074ABA22}|EDI\\EDI.csproj|solutionrelative:edi\\wwwroot\\resources\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC316733-2F93-48FF-8741-02BD074ABA22}|EDI\\EDI.csproj|c:\\users\\user\\desktop\\mk\\projects\\edi - project\\edi\\edi\\wwwroot\\resources\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FC316733-2F93-48FF-8741-02BD074ABA22}|EDI\\EDI.csproj|solutionrelative:edi\\wwwroot\\resources\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC316733-2F93-48FF-8741-02BD074ABA22}|EDI\\EDI.csproj|c:\\users\\user\\desktop\\mk\\projects\\edi - project\\edi\\edi\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC316733-2F93-48FF-8741-02BD074ABA22}|EDI\\EDI.csproj|solutionrelative:edi\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC316733-2F93-48FF-8741-02BD074ABA22}|EDI\\EDI.csproj|c:\\users\\user\\desktop\\mk\\projects\\edi - project\\edi\\edi\\wwwroot\\lib\\tinymce\\tinymce.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{FC316733-2F93-48FF-8741-02BD074ABA22}|EDI\\EDI.csproj|solutionrelative:edi\\wwwroot\\lib\\tinymce\\tinymce.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC316733-2F93-48FF-8741-02BD074ABA22}|EDI\\EDI.csproj|c:\\users\\user\\desktop\\mk\\projects\\edi - project\\edi\\edi\\wwwroot\\lib\\tinymce\\init-tinymce.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{FC316733-2F93-48FF-8741-02BD074ABA22}|EDI\\EDI.csproj|solutionrelative:edi\\wwwroot\\lib\\tinymce\\init-tinymce.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SearchSuggestionModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MK\\Projects\\EDI - project\\EDI\\EDI\\Models\\ItemDataModels\\SearchSuggestionModel.cs",
+              "RelativeDocumentMoniker": "EDI\\Models\\ItemDataModels\\SearchSuggestionModel.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MK\\Projects\\EDI - project\\EDI\\EDI\\Models\\ItemDataModels\\SearchSuggestionModel.cs",
+              "RelativeToolTip": "EDI\\Models\\ItemDataModels\\SearchSuggestionModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T13:22:33.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ItemSupModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MK\\Projects\\EDI - project\\EDI\\EDI\\Models\\ItemDataModels\\ItemSupModel.cs",
+              "RelativeDocumentMoniker": "EDI\\Models\\ItemDataModels\\ItemSupModel.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MK\\Projects\\EDI - project\\EDI\\EDI\\Models\\ItemDataModels\\ItemSupModel.cs",
+              "RelativeToolTip": "EDI\\Models\\ItemDataModels\\ItemSupModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T13:22:32.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ItemSearchModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MK\\Projects\\EDI - project\\EDI\\EDI\\Models\\ItemDataModels\\ItemSearchModel.cs",
+              "RelativeDocumentMoniker": "EDI\\Models\\ItemDataModels\\ItemSearchModel.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MK\\Projects\\EDI - project\\EDI\\EDI\\Models\\ItemDataModels\\ItemSearchModel.cs",
+              "RelativeToolTip": "EDI\\Models\\ItemDataModels\\ItemSearchModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T13:22:31.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MK\\Projects\\EDI - project\\EDI\\EDI\\Models\\UserModels\\UserModel.cs",
+              "RelativeDocumentMoniker": "EDI\\Models\\UserModels\\UserModel.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MK\\Projects\\EDI - project\\EDI\\EDI\\Models\\UserModels\\UserModel.cs",
+              "RelativeToolTip": "EDI\\Models\\UserModels\\UserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T12:51:19.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserEnumModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MK\\Projects\\EDI - project\\EDI\\EDI\\Models\\UserModels\\UserEnumModel.cs",
+              "RelativeDocumentMoniker": "EDI\\Models\\UserModels\\UserEnumModel.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MK\\Projects\\EDI - project\\EDI\\EDI\\Models\\UserModels\\UserEnumModel.cs",
+              "RelativeToolTip": "EDI\\Models\\UserModels\\UserEnumModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T15:01:49.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRolePermissionModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MK\\Projects\\EDI - project\\EDI\\EDI\\Models\\UserModels\\UserRolePermissionModel.cs",
+              "RelativeDocumentMoniker": "EDI\\Models\\UserModels\\UserRolePermissionModel.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MK\\Projects\\EDI - project\\EDI\\EDI\\Models\\UserModels\\UserRolePermissionModel.cs",
+              "RelativeToolTip": "EDI\\Models\\UserModels\\UserRolePermissionModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T15:01:49.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MK\\Projects\\EDI - project\\EDI\\EDI\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EDI\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MK\\Projects\\EDI - project\\EDI\\EDI\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EDI\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T15:01:49.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ItemDataController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MK\\Projects\\EDI - project\\EDI\\EDI\\Controllers\\ItemDataController.cs",
+              "RelativeDocumentMoniker": "EDI\\Controllers\\ItemDataController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MK\\Projects\\EDI - project\\EDI\\EDI\\Controllers\\ItemDataController.cs",
+              "RelativeToolTip": "EDI\\Controllers\\ItemDataController.cs",
+              "ViewState": "AQIAAGEBAAAAAAAAAAAWwB0AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T15:01:49.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MK\\Projects\\EDI - project\\EDI\\EDI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "EDI\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MK\\Projects\\EDI - project\\EDI\\EDI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "EDI\\Controllers\\UserController.cs",
+              "ViewState": "AQIAABkAAAAANDMzMzMEwB8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T15:01:49.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ItemListModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MK\\Projects\\EDI - project\\EDI\\EDI\\Models\\ItemDataModels\\ItemListModel.cs",
+              "RelativeDocumentMoniker": "EDI\\Models\\ItemDataModels\\ItemListModel.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MK\\Projects\\EDI - project\\EDI\\EDI\\Models\\ItemDataModels\\ItemListModel.cs",
+              "RelativeToolTip": "EDI\\Models\\ItemDataModels\\ItemListModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T15:01:49.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MK\\Projects\\EDI - project\\EDI\\EDI\\Models\\ItemDataModels\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "EDI\\Models\\ItemDataModels\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MK\\Projects\\EDI - project\\EDI\\EDI\\Models\\ItemDataModels\\ErrorViewModel.cs",
+              "RelativeToolTip": "EDI\\Models\\ItemDataModels\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T13:22:22.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AttributeValueModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MK\\Projects\\EDI - project\\EDI\\EDI\\Models\\ItemDataModels\\AttributeValueModel.cs",
+              "RelativeDocumentMoniker": "EDI\\Models\\ItemDataModels\\AttributeValueModel.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MK\\Projects\\EDI - project\\EDI\\EDI\\Models\\ItemDataModels\\AttributeValueModel.cs",
+              "RelativeToolTip": "EDI\\Models\\ItemDataModels\\AttributeValueModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T13:22:21.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AttributeSetupModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MK\\Projects\\EDI - project\\EDI\\EDI\\Models\\ItemDataModels\\AttributeSetupModel.cs",
+              "RelativeDocumentMoniker": "EDI\\Models\\ItemDataModels\\AttributeSetupModel.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MK\\Projects\\EDI - project\\EDI\\EDI\\Models\\ItemDataModels\\AttributeSetupModel.cs",
+              "RelativeToolTip": "EDI\\Models\\ItemDataModels\\AttributeSetupModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T12:56:04.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MK\\Projects\\EDI - project\\EDI\\EDI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "EDI\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MK\\Projects\\EDI - project\\EDI\\EDI\\appsettings.Development.json",
+              "RelativeToolTip": "EDI\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-12T15:01:49.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "libman.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MK\\Projects\\EDI - project\\EDI\\EDI\\libman.json",
+              "RelativeDocumentMoniker": "EDI\\libman.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MK\\Projects\\EDI - project\\EDI\\EDI\\libman.json",
+              "RelativeToolTip": "EDI\\libman.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-12T15:01:49.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Main.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MK\\Projects\\EDI - project\\EDI\\EDI\\Views\\Home\\Main.cshtml",
+              "RelativeDocumentMoniker": "EDI\\Views\\Home\\Main.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MK\\Projects\\EDI - project\\EDI\\EDI\\Views\\Home\\Main.cshtml",
+              "RelativeToolTip": "EDI\\Views\\Home\\Main.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T15:01:49.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ItemInfoModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MK\\Projects\\EDI - project\\EDI\\EDI\\Models\\ItemDataModels\\ItemInfoModel.cs",
+              "RelativeDocumentMoniker": "EDI\\Models\\ItemDataModels\\ItemInfoModel.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MK\\Projects\\EDI - project\\EDI\\EDI\\Models\\ItemDataModels\\ItemInfoModel.cs",
+              "RelativeToolTip": "EDI\\Models\\ItemDataModels\\ItemInfoModel.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA1wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T15:01:49.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ItemSaveModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MK\\Projects\\EDI - project\\EDI\\EDI\\Models\\ItemDataModels\\ItemSaveModel.cs",
+              "RelativeDocumentMoniker": "EDI\\Models\\ItemDataModels\\ItemSaveModel.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MK\\Projects\\EDI - project\\EDI\\EDI\\Models\\ItemDataModels\\ItemSaveModel.cs",
+              "RelativeToolTip": "EDI\\Models\\ItemDataModels\\ItemSaveModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T15:01:49.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MK\\Projects\\EDI - project\\EDI\\EDI\\Program.cs",
+              "RelativeDocumentMoniker": "EDI\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MK\\Projects\\EDI - project\\EDI\\EDI\\Program.cs",
+              "RelativeToolTip": "EDI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T15:01:49.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MK\\Projects\\EDI - project\\EDI\\EDI\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "EDI\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MK\\Projects\\EDI - project\\EDI\\EDI\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "EDI\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-08-12T15:01:49.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MK\\Projects\\EDI - project\\EDI\\EDI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "EDI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MK\\Projects\\EDI - project\\EDI\\EDI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "EDI\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAEAAABwZmZmZmb0vwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-12T15:01:49.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MK\\Projects\\EDI - project\\EDI\\EDI\\Views\\User\\Login.cshtml",
+              "RelativeDocumentMoniker": "EDI\\Views\\User\\Login.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MK\\Projects\\EDI - project\\EDI\\EDI\\Views\\User\\Login.cshtml",
+              "RelativeToolTip": "EDI\\Views\\User\\Login.cshtml",
+              "ViewState": "AQIAABAAAAAAAAAAAAAowCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T15:01:49.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DatabaseConnection.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MK\\Projects\\EDI - project\\EDI\\EDI\\Services\\DatabaseServices\\DatabaseConnection.cs",
+              "RelativeDocumentMoniker": "EDI\\Services\\DatabaseServices\\DatabaseConnection.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MK\\Projects\\EDI - project\\EDI\\EDI\\Services\\DatabaseServices\\DatabaseConnection.cs",
+              "RelativeToolTip": "EDI\\Services\\DatabaseServices\\DatabaseConnection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T15:34:14.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MK\\Projects\\EDI - project\\EDI\\EDI\\Views\\User\\Register.cshtml",
+              "RelativeDocumentMoniker": "EDI\\Views\\User\\Register.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MK\\Projects\\EDI - project\\EDI\\EDI\\Views\\User\\Register.cshtml",
+              "RelativeToolTip": "EDI\\Views\\User\\Register.cshtml",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAACAAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T15:01:49.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "main.js",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MK\\Projects\\EDI - project\\EDI\\EDI\\wwwroot\\resources\\js\\main.js",
+              "RelativeDocumentMoniker": "EDI\\wwwroot\\resources\\js\\main.js",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MK\\Projects\\EDI - project\\EDI\\EDI\\wwwroot\\resources\\js\\main.js",
+              "RelativeToolTip": "EDI\\wwwroot\\resources\\js\\main.js",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-12T15:01:49.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "init-tinymce.js",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MK\\Projects\\EDI - project\\EDI\\EDI\\wwwroot\\lib\\tinymce\\init-tinymce.js",
+              "RelativeDocumentMoniker": "EDI\\wwwroot\\lib\\tinymce\\init-tinymce.js",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MK\\Projects\\EDI - project\\EDI\\EDI\\wwwroot\\lib\\tinymce\\init-tinymce.js",
+              "RelativeToolTip": "EDI\\wwwroot\\lib\\tinymce\\init-tinymce.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-12T15:01:49.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "tinymce.min.js",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MK\\Projects\\EDI - project\\EDI\\EDI\\wwwroot\\lib\\tinymce\\tinymce.min.js",
+              "RelativeDocumentMoniker": "EDI\\wwwroot\\lib\\tinymce\\tinymce.min.js",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MK\\Projects\\EDI - project\\EDI\\EDI\\wwwroot\\lib\\tinymce\\tinymce.min.js",
+              "RelativeToolTip": "EDI\\wwwroot\\lib\\tinymce\\tinymce.min.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-12T15:01:49.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MK\\Projects\\EDI - project\\EDI\\EDI\\wwwroot\\resources\\css\\style.css",
+              "RelativeDocumentMoniker": "EDI\\wwwroot\\resources\\css\\style.css",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MK\\Projects\\EDI - project\\EDI\\EDI\\wwwroot\\resources\\css\\style.css",
+              "RelativeToolTip": "EDI\\wwwroot\\resources\\css\\style.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEDAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-12T15:01:49.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MK\\Projects\\EDI - project\\EDI\\EDI\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "EDI\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MK\\Projects\\EDI - project\\EDI\\EDI\\Repositories\\Repository.cs",
+              "RelativeToolTip": "EDI\\Repositories\\Repository.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T15:01:49.173Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

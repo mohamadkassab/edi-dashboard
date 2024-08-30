@@ -1,0 +1,57 @@
+﻿@using EDI.ViewModels.UserViewModels
+@model EDI.Models.UserModels.UserModel;
+
+<script>
+    $('#loading-icon').show();
+    $(window).on('load', function () {
+        $('#loading-icon').hide();
+    });
+</script>
+
+<main class="main main-register">
+    <section class="section register section-padding">
+        <div class="headline1">
+            Welcome!
+        </div>
+        <form asp-controller="User" asp-action="Register" method="post">
+            <div class="register-credentials">
+                <input asp-for="FirstName" type="text" autocomplete="off" placeholder="First name" >
+                <span asp-validation-for="FirstName" class="text-danger"></span>
+
+                <input asp-for="LastName" type="text" autocomplete="off" placeholder="Last name" >
+                <span asp-validation-for="LastName" class="text-danger"></span>
+
+                <input asp-for="Email" type="text" autocomplete="off" placeholder="Email" >
+                <span asp-validation-for="Email" class="text-danger"></span>
+
+                <input asp-for="Password" type="password" autocomplete="off" placeholder="Password">
+                <span asp-validation-for="Password" class="text-danger"></span>
+
+                <select asp-for="RoleId" class="register-options">
+                    <option disabled selected><label asp-for="RoleId"></label></option>
+                    @{
+                        @foreach (var item in (List<UserRoleViewModel>)ViewData["UserRoles"])
+                        {
+                            <option value="@item.Id">@item.RoleName</option>
+                        }
+                        // foreach (var item in Enum.GetValues(typeof(UserRole)))
+                        // {
+                        //     var roleId = (int)item;
+                        //     <option value="@roleId">@item.ToString()</option>
+                        // }
+                    }
+                </select>
+                <span asp-validation-for="RoleId" class="text-danger"></span>
+            </div>
+
+            <div class="register-buttons ">
+                <button type="submit" class="primary-button">Register</button>
+            </div>
+
+        </form>
+    </section>
+</main>
+
+@{
+    await Html.RenderPartialAsync("ValidationScriptsPartial");
+}

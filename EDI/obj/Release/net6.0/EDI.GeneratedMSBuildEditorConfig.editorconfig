@@ -1,0 +1,111 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = EDI
+build_property.RootNamespace = EDI
+build_property.ProjectDir = C:\Users\developer\Desktop\MK\EDI\EDI\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\developer\Desktop\MK\EDI\EDI
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/developer/Desktop/MK/EDI/EDI/Views/Home/Main.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNYWluLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/developer/Desktop/MK/EDI/EDI/Views/ItemData/Main.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbURhdGFcTWFpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/developer/Desktop/MK/EDI/EDI/Views/Shared/Components/FixedElements/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcRml4ZWRFbGVtZW50c1xEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/developer/Desktop/MK/EDI/EDI/Views/Shared/Components/FixedElements/DisconnectedHiddenMain.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcRml4ZWRFbGVtZW50c1xEaXNjb25uZWN0ZWRIaWRkZW5NYWluLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/developer/Desktop/MK/EDI/EDI/Views/Shared/Components/FixedElements/FailedHiddenMain.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcRml4ZWRFbGVtZW50c1xGYWlsZWRIaWRkZW5NYWluLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/developer/Desktop/MK/EDI/EDI/Views/Shared/Components/FixedElements/FailedLogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcRml4ZWRFbGVtZW50c1xGYWlsZWRMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/developer/Desktop/MK/EDI/EDI/Views/Shared/Components/FixedElements/FailedMain.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcRml4ZWRFbGVtZW50c1xGYWlsZWRNYWluLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/developer/Desktop/MK/EDI/EDI/Views/Shared/Components/FixedElements/LoadingLogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcRml4ZWRFbGVtZW50c1xMb2FkaW5nTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/developer/Desktop/MK/EDI/EDI/Views/Shared/Components/FixedElements/LoadingMain.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcRml4ZWRFbGVtZW50c1xMb2FkaW5nTWFpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/developer/Desktop/MK/EDI/EDI/Views/Shared/Components/FixedElements/ScrollUpMain.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcRml4ZWRFbGVtZW50c1xTY3JvbGxVcE1haW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/developer/Desktop/MK/EDI/EDI/Views/Shared/Components/FixedElements/SuccessHiddenMain.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcRml4ZWRFbGVtZW50c1xTdWNjZXNzSGlkZGVuTWFpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/developer/Desktop/MK/EDI/EDI/Views/Shared/Components/FixedElements/SuccessMain.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcRml4ZWRFbGVtZW50c1xTdWNjZXNzTWFpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/developer/Desktop/MK/EDI/EDI/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/developer/Desktop/MK/EDI/EDI/Views/Shared/Login_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExvZ2luX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/developer/Desktop/MK/EDI/EDI/Views/Shared/PartialViews/_AttributeDetailsAR.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxWaWV3c1xfQXR0cmlidXRlRGV0YWlsc0FSLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/developer/Desktop/MK/EDI/EDI/Views/Shared/PartialViews/_AttributeDetailsEN.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxWaWV3c1xfQXR0cmlidXRlRGV0YWlsc0VOLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/developer/Desktop/MK/EDI/EDI/Views/Shared/ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/developer/Desktop/MK/EDI/EDI/Views/User/ChangePassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxDaGFuZ2VQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/developer/Desktop/MK/EDI/EDI/Views/User/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/developer/Desktop/MK/EDI/EDI/Views/User/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/developer/Desktop/MK/EDI/EDI/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/developer/Desktop/MK/EDI/EDI/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/developer/Desktop/MK/EDI/EDI/Views/Shared/Main_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXE1haW5fTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-c1bu97b0x4

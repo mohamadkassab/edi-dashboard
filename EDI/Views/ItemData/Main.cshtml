@@ -1,0 +1,321 @@
+﻿
+@model List<List<AttributeSetupModel>>;
+
+<script>
+    $('#loading-icon-main').show();
+    $(window).on('load', function () {
+        $('#loading-icon-main').hide();
+    });
+
+    // $(document).ready(function () {
+
+    //     try {
+    //         // SignalR
+    //         const connection = new signalR.HubConnectionBuilder().withUrl("/signalRHub").build();
+    //         connection.start().then(() => { }).catch(() => { });
+    //         window.addEventListener("beforeunload", () => {
+    //             connection.invoke("OnUnload");
+    //         });
+
+    //     }
+    //     catch (error) {
+    //         console.error("Error:", error, error.stack);
+    //         $(loadingIconMain).hide();
+    //         ErrorLogs("main.js", "document.ready", error, error.stack);
+    //     }
+    // });
+
+</script>
+
+
+<div class="album-image-container">
+    <div class="album"> 
+        <img id="album-image" src="~/resources/images/frontendImages/noImage.png" class="album-image" alt="Main image">
+
+        <div id="hide-album"  class="album-close-button">
+            <svg class="svg-close" width="800px" height="800px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+                <g id="SVGRepo_bgCarrier" stroke-width="0" />
+
+                <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round" />
+
+                <g id="SVGRepo_iconCarrier"> <g id="Menu / Close_MD"> <path id="Vector" d="M18 18L12 12M12 12L6 6M12 12L18 6M12 12L6 18" stroke="#373f41" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" /> </g> </g>
+
+            </svg>
+        </div>
+
+        <div class="album-nav-right">
+            <svg class="svg-right" width="800px" height="800px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+                <g id="SVGRepo_bgCarrier" stroke-width="0" />
+
+                <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round" />
+
+                <g id="SVGRepo_iconCarrier"> <path d="M10 7L15 12L10 17" stroke="#373f41" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" /> </g>
+
+            </svg>
+        </div> 
+
+        <div class ="album-nav-left">
+            <svg class="svg-left" width="800px" height="800px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+                <g id="SVGRepo_bgCarrier" stroke-width="0" />
+
+                <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round" />
+
+                <g id="SVGRepo_iconCarrier"> <path d="M15 7L10 12L15 17" stroke="#373f41" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" /> </g>
+
+            </svg>
+        </div>
+
+    </div>
+</div>
+
+<main class="main">
+    <section class="section filtering section-padding">
+        <div class="headline1">
+            Filtering 
+        </div>
+        <div id="item-filter-row" class="filtering-body div-margin">
+
+            <div class="filtering-input-col">
+                <label>Item no</label>
+                <input id="f-item-no" type="text" autocomplete="off">
+            </div>
+
+            <div class="filtering-input-col">
+                <label>Item family</label>
+                <input id="f-item-family" class="f-suggestions" type="text" autocomplete="off">
+                <ul id="f-item-family-suggestions" class="f-suggestions-list"></ul>
+            </div>
+
+            <div class="filtering-input-col">
+                <label>Item category</label>
+                <input id="f-item-category" class="f-suggestions" type="text" autocomplete="off">
+                <ul id="f-item-category-suggestions" class="f-suggestions-list"></ul>
+            </div>
+
+            <div class="filtering-input-col">
+                <label>Season</label>
+                <input id="f-season" class="f-suggestions" type="text" autocomplete="off">
+                <ul id="f-season-suggestions" class="f-suggestions-list"></ul>
+            </div>
+
+            <div class="filtering-input-col">
+                <label>IsApproved</label>
+                <select id="f-isApproved" class="item-info-box item-info-box-select" type="text">
+                    <option value="1" selected>All</option>
+                    <option value="2" >True</option>
+                    <option value="3">False</option>
+                </select>
+            </div>
+
+            <div class="filtering-input-col">
+                <label>After</label>
+                <input id="f-date-created-after" type="date" autocomplete="off">
+            </div>
+
+            <div class="filtering-input-col">
+                <label>Before</label>
+                <input id="f-date-created-before" type="date" autocomplete="off">
+            </div>
+
+            <div  class="filtering-input-col filtering-search">
+                <button id="search-all"  class="primary-button">Search</button>
+            </div>
+
+        </div>
+    </section>
+
+    <section class="section item-info section-padding ">
+        <div class="headline1">
+            Item info
+        </div>
+        <div class="item-info-body">
+            <div class="item-info-details div-margin">
+                <div id="item-info-row" class="item-info-row">
+
+                    <div class="item-info-col">
+                        <label>Item no</label>
+                        <input id="i-item-no" class="item-info-box" type="text" readonly>
+                    </div>
+
+                    <div class="item-info-col">
+                        <label>Item family </label>
+                        <input id="i-item-family" class="item-info-box" type="text" readonly>
+                    </div>
+
+                    <div class="item-info-col">
+                        <label>Item category</label>
+                        <input id="i-item-category" class="item-info-box" type="text" readonly>
+                    </div>
+
+                    <div class="item-info-col">
+                        <label>Season</label>
+                        <input id="i-item-season" class="item-info-box" type="text" readonly>
+                    </div>
+
+                    <div class="item-info-col">
+                        <label>Division</label>
+                        <input id="i-division" class="item-info-box" type="text" readonly>
+                    </div>
+
+                    <div class="item-info-col">
+                        <label>Product group</label>
+                        <input id="i-product-group" class="item-info-box" type="text" readonly>
+                    </div>
+
+                    <div class="item-info-col">
+                        <label>Product sub group</label>
+                        <input id="i-product-sub-group" class="item-info-box" type="text" readonly>
+                    </div>
+
+                    <div class="item-info-col">
+                        <label>Product category</label>
+                        <input id="i-product-category" class="item-info-box" type="text" readonly>
+                    </div>
+
+                    <div class="item-info-col">
+                        <label>Product unit</label>
+                        <input id="i-product-unit" class="item-info-box" type="text" readonly>
+                    </div>
+
+                    <div class="item-info-col">
+                        <label>Country of origin</label>
+                        <input id="i-country-origin" class="item-info-box" type="text" readonly>
+                    </div>
+
+                    <div class="item-info-col">
+                        <label>Vendor</label>
+                        <input id="i-vendor" class="item-info-box" type="text" readonly>
+                    </div>
+
+                    <div class="item-info-col">
+                        <label>Barcode</label>
+                        <input id="i-barcode" class="item-info-box" type="text" readonly>
+                    </div>
+                 
+                    <div class="item-info-col">
+                        <label>Created by</label>
+                        <input id="i-created-by" class="item-info-box" type="text" readonly>
+                    </div>
+
+                    <div class="item-info-col">
+                        <label>Date created</label>
+                        <input id="i-date-created" class="item-info-box" type="text" readonly>
+                    </div>
+
+                    <div class="item-info-col">
+                        <label>Sup</label>
+                        <select id="i-sup" class="item-info-box item-info-box-select" type="text">
+
+                        </select>
+                    </div>
+
+                    <div class="item-info-col">
+                        <label>Status</label>
+                        <select id="i-status" class="item-info-box item-info-box-select" type="text">
+                        </select>
+                    </div>
+
+                    <div class="item-info-col ">
+                        <label>Description</label>
+                        <input id="i-description" class="item-info-box" type="text" readonly>
+                    </div>
+
+                </div>
+            </div>
+            <div class="image-container">
+                <div id="show-album" class="item-info-image ">
+                    <img id="image" src="~/resources/images/frontendImages/noImage.png" alt="Item image">
+                </div>
+            </div>
+        </div>
+        <div class="item-info-footer ">
+
+            <div class="item-info-total">
+                <label>
+                    Total: <label id="items-total"></label>
+                </label>
+            </div>
+
+            <div class="item-info-buttons">
+                <button id="search-previous"  class=" nav-button-back"><svg class="svg-back" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#373f41" stroke-width="2"><path d="M15 18l-6-6 6-6" /></svg></button>
+
+                <input id="pages-number"  class="nav-input">
+
+                <button id="search-next"  class=" nav-button-next"><svg class="svg-next" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#373f41" stroke-width="2"><path d="M9 18l6-6-6-6" /></svg></button>
+            </div>
+            @{
+
+                var userRole = Context?.Session?.GetString("CanApproveContent");
+           
+                <div class="approveContainer">
+                    <label>Unlock/Lock</label>
+                    <label class="toggle" for="approveCheckbox">
+                    @{
+                        if (userRole == "True")
+                    {
+                    <input type="checkbox" class="toggle__input" id="approveCheckbox" />
+                    }
+                    else
+                    {
+                    <input type="checkbox" disabled class="toggle__input" id="approveCheckbox" />
+                    }}
+                        <span class="toggle-track">
+                            <span class="toggle-indicator">
+                                <span class="checkMark">
+                                    <svg viewBox="0 0 24 24" id="ghq-svg-check" role="presentation" aria-hidden="true">
+                                        <path d="M9.86 18a1 1 0 01-.73-.32l-4.86-5.17a1.001 1.001 0 011.46-1.37l4.12 4.39 8.41-9.2a1 1 0 111.48 1.34l-9.14 10a1 1 0 01-.73.33h-.01z"></path>
+                                    </svg>
+                                </span>
+                            </span>
+                        </span>
+                        <label class="approveLabel" id="approveLabel"></label>
+                    </label>
+                </div>                    
+         
+            }
+
+        </div>
+    </section>
+
+    <section class="attributes ">
+        <div class="attributes-section primary-attributes section-padding">
+            <div class="headline1">
+                Primary language
+            </div>
+
+            <div class="attributes-body div-margin">
+                @{
+                    if (Model[0] != null)
+                    {
+                        foreach (var item in Model[0])
+                        {
+                            @await Html.PartialAsync("~/Views/Shared/PartialViews/_AttributeDetailsEN.cshtml", item)
+        
+                        }
+                    }
+                }          
+            </div>
+        </div>
+        <div class="attributes-section secondary-attributes section-padding">
+            <div class="headline1">
+                Foreign language
+            </div>
+            <div class="attributes-body div-margin">
+                @{
+                    if (Model[1] != null)
+                    {
+                        foreach (var item in Model[1])
+                        {
+                            @await Html.PartialAsync("~/Views/Shared/PartialViews/_AttributeDetailsAR.cshtml", item)
+                        }
+                    }
+                }
+            </div>
+        </div>
+    </section>
+</main>
+
+

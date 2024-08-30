@@ -1,0 +1,989 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\EDI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\EDI.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\lib\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\lib\\tinymce\\license.txt",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\license.txt"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\lib\\tinymce\\skins\\content\\dark\\content.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\dark\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\lib\\tinymce\\skins\\content\\default\\content.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\default\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\lib\\tinymce\\skins\\content\\document\\content.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\document\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\lib\\tinymce\\skins\\content\\tinymce-5-dark\\content.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\tinymce-5-dark\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\lib\\tinymce\\skins\\content\\tinymce-5\\content.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\tinymce-5\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\lib\\tinymce\\skins\\content\\writer\\content.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\writer\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide-dark\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide-dark\\content.inline.min.css"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide-dark\\content.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide-dark\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide-dark\\skin.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide-dark\\skin.min.css"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide\\content.inline.min.css"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide\\content.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide\\skin.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide\\skin.min.css"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.min.css"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\content.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.min.css"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5\\content.inline.min.css"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5\\content.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5\\skin.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5\\skin.min.css"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\css\\style.css",
+      "PackagePath": "staticwebassets\\resources\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\frontendImages\\admic.png",
+      "PackagePath": "staticwebassets\\resources\\images\\frontendImages\\admic.png"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\frontendImages\\noImage.png",
+      "PackagePath": "staticwebassets\\resources\\images\\frontendImages\\noImage.png"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\frontendImages\\underconstruction.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\frontendImages\\underconstruction.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\1102246.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\1102246.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\1102338.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\1102338.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\1102345.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\1102345.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\1588354.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\1588354.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\900719016.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\900719016.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\900719019.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\900719019.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\900719021.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\900719021.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\900719032.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\900719032.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\900719039.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\900719039.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\900947046.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\900947046.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901006706.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901006706.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901006707.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901006707.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901006709.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901006709.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901006711.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901006711.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901006712.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901006712.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901006721.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901006721.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901009000.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901009000.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901009001.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901009001.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901010926.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901010926.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901010928.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901010928.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901013923.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901013923.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901035411.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901035411.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901035605.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901035605.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901035641.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901035641.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901035642.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901035642.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901035643.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901035643.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901035644.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901035644.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901035987.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901035987.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901035988.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901035988.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901038275.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901038275.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901046461.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901046461.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901048838.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901048838.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901048839.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901048839.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901056447.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901056447.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901056448.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901056448.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901064669.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901064669.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901065621.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901065621.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901068602.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901068602.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901068603.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901068603.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901068610.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901068610.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901068611.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901068611.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901068612.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901068612.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901073710.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901073710.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901073711.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901073711.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901079010.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901079010.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901079137.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901079137.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901079138.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901079138.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901079139.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901079139.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901079140.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901079140.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901079141.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901079141.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901079142.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901079142.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901079143.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901079143.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901081099.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901081099.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901081100.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901081100.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901081101.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901081101.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901081102.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901081102.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901081639.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901081639.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901081640.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901081640.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901081641.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901081641.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901082446.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901082446.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901082457.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901082457.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901082463.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901082463.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901082465.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901082465.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901082730.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901082730.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901083530.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901083530.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901083532.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901083532.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901083533.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901083533.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901083534.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901083534.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901083535.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901083535.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901083536.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901083536.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901083537.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901083537.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901083538.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901083538.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901083539.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901083539.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901083540.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901083540.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901083541.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901083541.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901083544.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901083544.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901083545.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901083545.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901083546.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901083546.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901083547.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901083547.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901083548.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901083548.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901083549.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901083549.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901083550.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901083550.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901083551.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901083551.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901083552.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901083552.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901083553.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901083553.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901083555.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901083555.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901083556.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901083556.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901083557.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901083557.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901083558.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901083558.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901083559.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901083559.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901083560.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901083560.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901083561.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901083561.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901083562.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901083562.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901083563.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901083563.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901083566.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901083566.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901083567.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901083567.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901083568.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901083568.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901083570.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901083570.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901083571.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901083571.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901083572.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901083572.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901083573.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901083573.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901083574.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901083574.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901083575.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901083575.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901083577.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901083577.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901083578.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901083578.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901083579.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901083579.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901083580.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901083580.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901083581.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901083581.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901084219.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901084219.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901084220.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901084220.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901084221.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901084221.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901084222.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901084222.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901084224.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901084224.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901084303.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901084303.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901084304.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901084304.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901084305.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901084305.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901084306.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901084306.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901084307.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901084307.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901084308.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901084308.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901084309.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901084309.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901084310.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901084310.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901084311.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901084311.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901084312.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901084312.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901084313.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901084313.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901084314.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901084314.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901086433.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901086433.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901086434.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901086434.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901086436.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901086436.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901086437.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901086437.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901086438.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901086438.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901086439.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901086439.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901086440.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901086440.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901086441.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901086441.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901086442.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901086442.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901086443.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901086443.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901086444.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901086444.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901088424.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901088424.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901088437.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901088437.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901088547.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901088547.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901088548.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901088548.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901088549.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901088549.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901088550.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901088550.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901088551.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901088551.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901088552.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901088552.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901088556.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901088556.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901088557.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901088557.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901088558.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901088558.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901088559.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901088559.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901088560.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901088560.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901088561.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901088561.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901088562.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901088562.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901088563.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901088563.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901088564.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901088564.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901088756.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901088756.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901088757.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901088757.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901088759.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901088759.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901088760.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901088760.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901088761.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901088761.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901089088.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901089088.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901089089.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901089089.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901089090.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901089090.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901089091.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901089091.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901089092.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901089092.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901089093.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901089093.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901089250.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901089250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901089365.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901089365.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901089366.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901089366.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901089367.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901089367.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901089368.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901089368.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901089369.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901089369.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901089371.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901089371.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901089372.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901089372.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901089580.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901089580.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901089581.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901089581.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901089582.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901089582.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901089583.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901089583.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901089588.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901089588.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901091424.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901091424.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901095487.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901095487.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901095489.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901095489.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901095490.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901095490.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901095491.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901095491.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901095492.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901095492.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901095494.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901095494.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901095495.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901095495.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901095496.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901095496.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901095497.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901095497.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901095498.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901095498.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901095499.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901095499.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901095501.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901095501.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901095502.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901095502.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901095717.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901095717.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901095718.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901095718.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901095719.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901095719.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901095720.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901095720.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901095721.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901095721.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901095722.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901095722.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901095723.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901095723.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901095724.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901095724.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901095725.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901095725.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901095726.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901095726.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901095727.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901095727.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901095728.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901095728.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901095729.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901095729.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901095730.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901095730.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901095731.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901095731.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901095732.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901095732.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901096018.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901096018.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901098918.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901098918.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901098919.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901098919.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901098920.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901098920.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901098921.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901098921.jpg"
+    },
+    {
+      "Id": "C:\\Users\\developer\\Desktop\\MK\\EDI\\EDI\\wwwroot\\resources\\images\\itemImages\\901098922.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\itemImages\\901098922.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.EDI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.EDI.props",
+      "PackagePath": "build\\EDI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.EDI.props",
+      "PackagePath": "buildMultiTargeting\\EDI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.EDI.props",
+      "PackagePath": "buildTransitive\\EDI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

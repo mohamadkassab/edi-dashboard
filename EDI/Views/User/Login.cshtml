@@ -1,0 +1,41 @@
+﻿@{
+    Layout = "Login_Layout"; // The default layout for all views in this folder or application-wide
+}
+@inject IHtmlHelper Html;
+@model EDI.ViewModels.UserViewModels.UserLoginViewModel;
+
+<script>
+    $('#loading-icon-login').show();
+    $(window).on('load', function () {
+        $('#loading-icon-login').hide();
+    });
+</script>
+
+<main class="main main-sign-in">
+    <form asp-controller="User" asp-action="Login" method="post">
+        <section class="section sign-in section-padding">
+            <div class="headline1">
+                Welcome!
+            </div>
+
+            <div class="sign-in-credentials">
+                <input asp-for="Email" type="text" autocomplete="on" placeholder="Email">
+                <span asp-validation-for="Email" class="text-danger"></span>
+
+                <input asp-for="Password" type="password" autocomplete="off" placeholder="Password">
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+
+            <div class="sign-in-buttons ">
+                <button type="submit" class="signin-button primary-button">Sign in</button>
+            </div>
+
+        </section>
+    </form>
+</main>
+
+
+@{
+    await Html.RenderPartialAsync("ValidationScriptsPartial");
+}
+
